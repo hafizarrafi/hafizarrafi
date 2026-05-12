@@ -1,44 +1,78 @@
-  <h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
-<br>
-<p align="right"> </p><h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="adam-pw"> 
-  <p></p>
-<br>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"></p>
-<ul style="height: auto !important;">
-<li>
-<p>🌱 I’m currently learning Web Development and other programming languages</p>
-</li><div class="google-auto-placed ap_container" style="width: 100%; height: auto; clear: both; text-align: center;"><ins data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-5867915342436534" data-adsbygoogle-status="done" style="display: block; margin: auto; background-color: transparent; height: 280px;" data-ad-status="filled"><div id="aswift_3_host" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; height: 280px; width: 1118px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: visible;"><iframe id="aswift_3" name="aswift_3" style="left:0;position:absolute;top:0;border:0;width:1118px;height:280px;min-height:auto;max-height:none;min-width:auto;max-width:none;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="1118" height="280" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5867915342436534&amp;output=html&amp;h=280&amp;num_ads=1&amp;adk=1090150545&amp;adf=776982358&amp;w=1118&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1778566879&amp;rafmt=1&amp;armr=3&amp;sem=mc&amp;pwprc=3343622871&amp;ad_type=text_image&amp;format=1118x280&amp;url=https%3A%2F%2Fgithubprofile.com%2Ftemplates%2FAdam-pw&amp;fwr=0&amp;pra=3&amp;rh=200&amp;rw=1118&amp;rpe=1&amp;resp_fmts=3&amp;asro=0&amp;aiactd=0&amp;aicctd=0&amp;ailctd=0&amp;aimartd=4&amp;aieuf=1&amp;aicrs=1&amp;fa=27&amp;uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTQ3LjAuNzcyNy4xMzgiLG51bGwsMCxudWxsLCI2NCIsW1siR29vZ2xlIENocm9tZSIsIjE0Ny4wLjc3MjcuMTM4Il0sWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTQ3LjAuNzcyNy4xMzgiXV0sMF0.&amp;abgtt=6&amp;dt=1778566880295&amp;bpp=2&amp;bdt=857&amp;idt=2&amp;shv=r20260507&amp;mjsv=m202605070101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3Df33b0e65ec801b93%3AT%3D1778566856%3ART%3D1778566856%3AS%3DALNI_Mb781unfKTlwB5_dAWC-9TtlZVelg&amp;gpic=UID%3D000013800dbd8e49%3AT%3D1778566856%3ART%3D1778566856%3AS%3DALNI_MYQ-RR3RrViK437GNQVMHzOUENPRA&amp;eo_id_str=ID%3D7265ef21b8c4691d%3AT%3D1778566856%3ART%3D1778566856%3AS%3DAA-AfjZRp3BO1yFW4dfm4THcWcWw&amp;prev_fmts=0x0%2C1200x280%2C1005x124&amp;nras=4&amp;correlator=6360284157904&amp;frm=20&amp;pv=1&amp;u_tz=420&amp;u_his=8&amp;u_h=864&amp;u_w=1536&amp;u_ah=816&amp;u_aw=1536&amp;u_cd=32&amp;u_sd=1.25&amp;dmc=8&amp;adx=217&amp;ady=1110&amp;biw=1521&amp;bih=730&amp;scr_x=0&amp;scr_y=0&amp;eid=31098359%2C95387509&amp;oid=2&amp;pvsid=550694577764487&amp;tmod=1119477042&amp;uas=1&amp;nvt=1&amp;ref=https%3A%2F%2Fgithubprofile.com%2Ftemplates&amp;fc=1408&amp;brdim=0%2C0%2C0%2C0%2C1536%2C0%2C1536%2C816%2C1536%2C730&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=128&amp;bc=31&amp;bz=1&amp;ifi=4&amp;uci=a!4&amp;btvi=2&amp;fsb=1&amp;dtd=15" data-google-container-id="a!4" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="COKS-PiNs5QDFY7lTAIdrS4khQ" data-load-complete="true"></iframe></div></ins></div>
-<li>
-<p>📫 How to reach me <strong><a href="mailto:adampithewan@gmail.com">adampithewan@gmail.com</a></strong></p>
-</li>
-<li>
-<p>⚡ Fun fact :- Food and Music🎵 are the reasons to live.</p>
-</li>
-</ul>
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40"></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adam pithen wala" height="30" width="40"></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_._.adam._" height="30" width="40"></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adampithewan" height="30" width="40"></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adampithewan" height="30" width="40"></a>
+<h1 align="center">Oii, eu sou a Julia Krisnarane 💌🌷<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h3>
+
+<p align="center">
+  <a href="mailto:jkrisnarane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/julia-krisnarane-moraes-410417345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
+
+<div align="left">
+<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
+  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+
+  <em>
+Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Fatec Mogi das Cruzes</strong>. Minha jornada na tecnologia começou com o ensino médio técnico em Informática para a Internet, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
+  </em> 
+  <br>
+<div align= "center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
+</div>
+
 <br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40">
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"> </a> </p>
+  
+<p style="display: inline-block;" align="center">
+   <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
+    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Outros</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+  </kbd>
+  <br>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
+</div>
+
+<div align="center">
+  <a href="https://github.com/krisnarane">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisnarane&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnarane&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
+  </a>
+</div>
+
 <br>
-<h3>Statistical Data :-</h3>
-<div class="google-auto-placed" style="width: 100%; height: auto; clear: both; text-align: center;"><ins data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-5867915342436534" data-adsbygoogle-status="done" style="display: block; margin: 10px auto 16px; background-color: transparent; height: 280px;" data-ad-status="filled"><div id="aswift_4_host" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; height: 280px; width: 1150px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: visible;"><iframe id="aswift_4" name="aswift_4" style="left:0;position:absolute;top:0;border:0;width:1150px;height:280px;min-height:auto;max-height:none;min-width:auto;max-width:none;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="1150" height="280" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5867915342436534&amp;output=html&amp;h=280&amp;adk=1296727556&amp;adf=1479443332&amp;pi=t.aa~a.4260902570~rp.1&amp;w=1150&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1778566879&amp;rafmt=1&amp;to=qs&amp;pwprc=3343622871&amp;format=1150x280&amp;url=https%3A%2F%2Fgithubprofile.com%2Ftemplates%2FAdam-pw&amp;fwr=0&amp;pra=3&amp;rpe=1&amp;resp_fmts=3&amp;asro=0&amp;aiactd=0&amp;aicctd=0&amp;ailctd=0&amp;aimartd=4&amp;aieuf=1&amp;aicrs=1&amp;fa=40&amp;uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTQ3LjAuNzcyNy4xMzgiLG51bGwsMCxudWxsLCI2NCIsW1siR29vZ2xlIENocm9tZSIsIjE0Ny4wLjc3MjcuMTM4Il0sWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTQ3LjAuNzcyNy4xMzgiXV0sMF0.&amp;abgtt=6&amp;dt=1778566880355&amp;bpp=3&amp;bdt=917&amp;idt=-M&amp;shv=r20260507&amp;mjsv=m202605070101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3Df33b0e65ec801b93%3AT%3D1778566856%3ART%3D1778566856%3AS%3DALNI_Mb781unfKTlwB5_dAWC-9TtlZVelg&amp;gpic=UID%3D000013800dbd8e49%3AT%3D1778566856%3ART%3D1778566856%3AS%3DALNI_MYQ-RR3RrViK437GNQVMHzOUENPRA&amp;eo_id_str=ID%3D7265ef21b8c4691d%3AT%3D1778566856%3ART%3D1778566856%3AS%3DAA-AfjZRp3BO1yFW4dfm4THcWcWw&amp;prev_fmts=0x0%2C1200x280%2C1005x124%2C1118x280&amp;nras=5&amp;correlator=6360284157904&amp;frm=20&amp;pv=1&amp;u_tz=420&amp;u_his=8&amp;u_h=864&amp;u_w=1536&amp;u_ah=816&amp;u_aw=1536&amp;u_cd=32&amp;u_sd=1.25&amp;dmc=8&amp;adx=185&amp;ady=1865&amp;biw=1521&amp;bih=730&amp;scr_x=0&amp;scr_y=0&amp;eid=31098359%2C95387509&amp;oid=2&amp;pvsid=550694577764487&amp;tmod=1119477042&amp;uas=1&amp;nvt=1&amp;ref=https%3A%2F%2Fgithubprofile.com%2Ftemplates&amp;fc=1920&amp;brdim=0%2C0%2C0%2C0%2C1536%2C0%2C1536%2C816%2C1536%2C730&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=128&amp;bc=31&amp;bz=1&amp;ifi=5&amp;uci=a!5&amp;btvi=3&amp;fsb=1&amp;dtd=18" data-google-container-id="a!5" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CL25-PiNs5QDFSSYuQUdcw0rKg" data-load-complete="true"></iframe></div></ins></div><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;layout=compact" alt="adam-pw" bg_color="#808080/"></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;repo=convoychat" alt="adam-pw"></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&amp;theme=dark&amp;background=0d1117&amp;date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw"></p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&amp;style=for-the-badge" alt=""></a> </p>
-<p><a href="https://github.com/Adam-pw">Adam-pw</a></p> 
+
+- 📫 Contato: **jkrisnarane@gmail.com**
+
+<p align="center"> 
