@@ -69,7 +69,7 @@ I enjoy solving real-world problems through code instead of making another “AI
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafizarrafi&show_icons=true&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hafizarrafi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <br>
