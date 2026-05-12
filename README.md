@@ -2,13 +2,10 @@
 <h3 align="center">Informatics & Electrical Engineering Enthusiast | Backend Developer | System Builder</h3>
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:hafizarrafi17@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="www.linkedin.com/in/mohammad-hafiz-ar-rafi-929311297" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/yourgithub">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
